@@ -2,8 +2,8 @@ import random
 
 class Blob:
     
-    def __init__(self, color, x_boundary, y_boundary, size_range=(4,8), movement_range=(-1,2)):
-        self.size = random.randrange(4,8)
+    def __init__(self, color, x_boundary, y_boundary, size_range=(8,16), movement_range=(-1,2)):
+        self.size = random.randrange(8,16)
         self.color = color
         self.x_boundary = x_boundary
         self.y_boundary = y_boundary
