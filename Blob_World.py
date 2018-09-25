@@ -5,9 +5,9 @@ import numpy as np
 import logging
 
 #logging.basicConfig(level=logging.INFO)
-STARTING_BLUE_BLOBS = 20
-STARTING_RED_BLOBS = 20
-STARTING_GREEN_BLOBS = 20
+STARTING_BLUE_BLOBS = 30
+STARTING_RED_BLOBS = 30
+STARTING_GREEN_BLOBS = 0
 
 WIDTH = 800
 HEIGHT = 600
