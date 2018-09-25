@@ -3,7 +3,7 @@
 #### My first object class and pygame
 
 
-The display starts with random sized blobs. The bigger blob between red/blue aborbs the smaller blob.  
+The display starts with random sized blobs. The bigger blob aborbs the smaller blob.  
 WARNING: It might be worse than watching water boil....  
   
   
