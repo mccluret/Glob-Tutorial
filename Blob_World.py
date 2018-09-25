@@ -4,7 +4,7 @@ from blob_class import Blob
 import numpy as np
 import logging
 
-logging.basicConfig(level=logging.INFO)
+#logging.basicConfig(level=logging.INFO)
 STARTING_BLUE_BLOBS = 20
 STARTING_RED_BLOBS = 20
 STARTING_GREEN_BLOBS = 20
