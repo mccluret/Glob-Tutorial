@@ -8,7 +8,7 @@ WARNING: It might be worse than watching water boil....
   
   
 
-![GameTime = 0](https://github.com/mccluret/Glob-Tutorial/blob/master/Beginning_time0.PNG)
+![GameTime = 0](https://github.com/mccluret/Glob-Tutorial/blob/master/Beg_time0.PNG)
 ![GameTime = end](https://github.com/mccluret/Glob-Tutorial/blob/master/End_timex.PNG)
 
 
